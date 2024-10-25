@@ -11,3 +11,6 @@ const store = createStore(
     // other store enhancers if any
   )
 );
+
+
+export default store;
